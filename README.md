@@ -5,15 +5,14 @@
 # TRYBE TUNES
 
 Esse projeto foi feito enquanto estava fazendo o curso de Fundamentos de Web Desenvolvimento na Trybe.
-Ele tem como principal objetivo captar uma API de músicas, fornecida pela Apple com trechos sonoros e mostrar na tela templates para que o usário possa ouvi-los e também favoritá-los.
+Ele tem como principal objetivo captar uma API de músicas, fornecida pela Apple com trechos sonoros e mostrar na tela templates para que o usário possa ouvi-los e também favoritá-los. Este projeto conta com 14 requisitos, sendo 11 obrigatórios e 3 bônus.
 
 
 ## Aprendizados
 
-Neste projeto aprimorei a lógica de programação em JavaScript utilizando a biblioteca React, com React Test Library, HTML e CSS.
-Foi utilizado react com componente de classes e também local storage como 'banco de dados' para favoritar as músicas.
-Neste projeto é mais perceptível a parte de organização de código e de funcionalidades, de modo que torna mais editável.
-E também foi pego de uma API pública com trechos de músicas que foram organizados para serem mostrados no navegador.
+Neste projeto aprimorei a lógica de programação em JavaScript utilizando a biblioteca React, HTML e CSS.
+Foi utilizado react com componente de classes e também local storage como 'banco de dados' para favoritar as músicas e é mais perceptível a parte de organização de código e de funcionalidades, de modo que torna mais editável.
+E também, foi pego de uma API pública com trechos de músicas que foram organizados para serem mostrados no navegador.
 Com React foi feito todos os componentes e funcionalidades diretamente, aprimorando minha lógica  de programação.
 ## Rodando localmente
 
@@ -50,8 +49,8 @@ Para rodar os testes, rode o seguinte comando:
 - [@dornellesfr](https://www.github.com/dornellesfr)
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS, React, RTL, Node, Express, Sequelize, MySQL, Docker.
+## 🛠 Tecnologais usadas
+Javascript, HTML, CSS, React
 
 
 ## 🔗 Links
