@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/oslo-ii');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  font-family: 'Oslo II', sans-serif;
+  color: green;
+
+}
+
